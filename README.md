@@ -9,9 +9,9 @@
  
  <h2 <sub><b>Bruno Laudelino</b></sub></a> 
 
- <a href malito="brunolaudelino@outlook.com" title=>"DIO || UVA - Universidade Veiga de Almeida"></a>
+ <href malito="brunolaudelino@outlook.com" title=>"DIO || UVA - Universidade Veiga de Almeida">
 
-<img src="[https://logospng.org/wp-content/uploads/c-plus-plus.png]" width="100px;"
+<img style="border-radius: 50%;" src="https://logospng.org/wp-content/uploads/c-plus-plus.png" width="100px;"
 
  <a href="https://github.com/brunolaudelino/C">Linguagem C </a> •
 
