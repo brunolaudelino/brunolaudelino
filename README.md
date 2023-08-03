@@ -1,5 +1,5 @@
 <h1 align="center">Bem vindo ao meu portifólio ...</h1>           
-<h2 align="left">  DIO <img src="https://github.com/brunolaudelino/Welcome/blob/main/HTML/Logos%20&%20Imagens/PNG/unnamed.png?raw=true" style="border-radius: 50%"; width="15"; height="15";> || UVA - Universidade Veiga de Almeida <img align="justify" style="border-radius: 50%;" src="https://github.com/brunolaudelino/Welcome/blob/main/HTML/Logos%20&%20Imagens/PNG/uva.png?raw=true" width="15" height="15">
+<h2 align="left"> DIO <img src="https://github.com/brunolaudelino/Welcome/blob/main/HTML/Logos%20&%20Imagens/PNG/unnamed.png?raw=true" style="border-radius: 50%"; width="50"; height="50";>|| UVA - Universidade Veiga de Almeida <img align="justify" style="border-radius: 50%;" src="https://github.com/brunolaudelino/Welcome/blob/main/HTML/Logos%20&%20Imagens/PNG/uva.png?raw=true" width="50" height="50">
 <p size="6"></p></h2>
 
 <body>
