@@ -1,13 +1,19 @@
-<h1 align="center">Bem vindo ao meu portifólio...</h1>  
-<h2 align="center"> Bruno Laudelino ...</h2>          
-<h3 align="left">DIO || UVA - Universidade Veiga de Almeida</h3>
- <img align="left" style="border-radius: 50%;" src="http://www.quartograu.com.br/wp-content/uploads/2020/02/logo-specto-case-uva-01-300x300-1.png" width="100px;"
+<h1 align="center">Bem vindo ao meu portifólio ...</h1>           
+<h2 align="left">  DIO <img src="https://github.com/brunolaudelino/Welcome/blob/main/HTML/Logos%20&%20Imagens/PNG/unnamed.png?raw=true" style="border-radius: 50%"; width="15"; height="15";> || UVA - Universidade Veiga de Almeida <img align="justify" style="border-radius: 50%;" src="https://github.com/brunolaudelino/Welcome/blob/main/HTML/Logos%20&%20Imagens/PNG/uva.png?raw=true" width="15" height="15">
+<p size="6"></p></h2>
 
-<p align="center">Estou focando no momento em estudar C</p>
-<p align="center">Estou cursando Sistemas da Informação na Universidade Veiga de Almeida - RJ</p>
-
- <a href="https://github.com/brunolaudelino/C">Linguagem C </a> •
-
-
-
-
+<body>
+<p align="center"><blockquote><i>Estou cursando Sistemas da Informação na Universidade Veiga de Almeida e realizando curso de praticas de programação na DIO.me.
+</i></blockquote></p>
+<p> Repositório</p>
+<ol></ol>
+<li>
+<a href="https://github.com/brunolaudelino/Welcome">Welcome</a> 
+</li>
+<li>
+<a href="https://github.com/brunolaudelino/Front-End">Front-End </a>
+</li>
+<li>
+    <a href="https://github.com/brunolaudelino/C">Linguagem C </a>
+</li>
+</body>
