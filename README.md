@@ -46,7 +46,7 @@
                 <li><h3><a href="https://github.com/brunolaudelino/Python">Python Inicio de Uma Jornada</a></h3>
                 <p>Aqui você encontrará projetos e exercícios iniciais em Python, onde estou explorando a sintaxe e a lógica de programação característica dessa linguagem. Esses projetos servem como um ponto de partida para minha jornada no mundo do desenvolvimento em Python.</p>
                 </li>
-                <li><h3><a href="https://github.com/brunolaudelino/Front-End"></a>Desenvolvimento Front-End (HTML e CSS)</a></h3>
+                <li><h3><a href="https://github.com/brunolaudelino/Front-End">Desenvolvimento Front-End (HTML e CSS)</a></h3>
                 <p>Neste Repositório, você encontrará o meu progresso no desenvolvimento front-end. Exploro minha proficiência em HTML e CSS por meio de pastas e arquivos que representam diferentes etapas de aprendizado e aprimoramento. Isso mostra como evoluí na criação de interfaces atraentes e funcionais.</p>
                 </li>
             </ul>
