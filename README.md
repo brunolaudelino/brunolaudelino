@@ -11,7 +11,7 @@
     <main>
         <section>
         <h1>Sobre Mim ...</h1>
-        <figure><img src="https://github.com/brunolaudelino/bruno.laudelino.github.io/blob/main/img/logo/uva.logo.png?raw=true" alt="uva" width="24px" height="24px"><figcaption>UVA - Universidade Veiga de Almeida</figcaption></figure>
+        <figure><img src="https://github.com/brunolaudelino/bruno.laudelino.github.io/blob/main/img/logo/uva.logo.png?raw=true" alt="uva" width="50px" height="50px"><figcaption>UVA - Universidade Veiga de Almeida</figcaption></figure><br>
             <p>Sou um estudante universitário apaixonado por resolver problemas por meio da programação. Atualmente, estou cursando Sistemas de Informação na UVA - Universidade Veiga de Almeida e comcomitante fazendo cursos, projetos e Bootcamps na DIO - Digital Innovation One.<p>            
             <p> Minha paixão por codificação começou quando fui apresentado ao mundo da programação em C . Desde então, tenho me esforçado para aprender mais e expandir meu conhecimento em outras áreas.</p>
         </section>
