@@ -11,7 +11,7 @@
     <main>
         <section>
         <h1>Sobre Mim ...</h1>
-            <p>Sou um estudante universitário apaixonado por resolver problemas por meio da programação. Atualmente, estou cursando Sistemas de Informação na UVA - Universidade Veiga de Almeida e comcomitante fazendo cursos, projetos e Bootcamps na DIO - Digital Innovation One.<p>
+            <p>Sou um estudante universitário apaixonado por resolver problemas por meio da programação. Atualmente, estou cursando Sistemas de Informação na UVA - Universidade Veiga de Almeida e comcomitantemente realizando cursos, projetos e Bootcamps na DIO - Digital Innovation One.<p>
             <p> Minha paixão por codificação começou quando fui apresentado ao mundo da programação em C . Desde então, tenho me esforçado para aprender mais e expandir meu conhecimento em outras áreas.</p>
         </section>
         <section>
