@@ -11,11 +11,7 @@
     <main>
         <section>
         <h1>Sobre Mim ...</h1>
-        <figure><a href="https://www.uva.br/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/brunolaudelino/bruno.laudelino.github.io/blob/main/img/logo/uva.logo.png?raw=true" alt="uva" width="50px" height="50px" border="50px" ></a><br>
-            <figcaption>UVA - Universidade Veiga de Almeida</figcaption></figure>
             <p>Sou um estudante universitário apaixonado por resolver problemas por meio da programação. Atualmente, estou cursando Sistemas de Informação na UVA - Universidade Veiga de Almeida e comcomitante fazendo cursos, projetos e Bootcamps na DIO - Digital Innovation One.<p>
-            <figure><a href="https://www.dio.me/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/brunolaudelino/bruno.laudelino.github.io/blob/main/img/logo/dio.logo.jpg?raw=true" alt="dio" width="50px" height="50px" border="50px" ></a><br>
-            <figcaption>DIO - Digital Innovation One</figcaption></figure>
             <p> Minha paixão por codificação começou quando fui apresentado ao mundo da programação em C . Desde então, tenho me esforçado para aprender mais e expandir meu conhecimento em outras áreas.</p>
         </section>
         <section>
@@ -59,10 +55,16 @@
         <section>
             <h1>Como Contribuir:</h1>
             <p>Sinta-se à vontade para explorar meus projetos, clonar este repositório e propor melhorias por meio de pull requests. Estou sempre aberto a feedback construtivo e novas ideias para expandir meus conhecimentos.</p>
+            <p>Quero compartilhar minha jornada com vocês por meio desses projetos e recursos.</p>
             <p>Obrigado por fazer parte desta jornada comigo. Vamos aprender e crescer juntos na emocionante área da programação! 🚀</p>
         </section>
     </main>
     <footer>
+        <h4>CONTATO:</h4>
+        <p><a href="https://wa.me/5521964168393"><img src="https://github.com/brunolaudelino/bruno.laudelino.github.io/blob/main/img/icon/whatsapp.png?raw=true" alt="Whats" width="24px" height="24px"></a></p>
+        <p><a href="mailto:brunolaudelino@outlook.com"><img src="https://github.com/brunolaudelino/bruno.laudelino.github.io/blob/main/img/logo/e-mail.gif?raw=true" alt="email" width="24px" height="24px"></a></p>
+        <p><a href="http://"><img src="https://github.com/brunolaudelino/bruno.laudelino.github.io/blob/main/img/icon/linkedin.png?raw=true" alt="linkedin" width="24px" height="24px"></a></p>
+
     </footer>
     </body>
     </html>
