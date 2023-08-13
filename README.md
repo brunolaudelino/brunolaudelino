@@ -11,10 +11,10 @@
     <main>
         <section>
         <h1>Sobre Mim ...</h1>
-        <figure><a href="https://www.uva.br/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/brunolaudelino/bruno.laudelino.github.io/blob/main/img/logo/uva.logo.png?raw=true" alt="uva" width="50px" height="50px" border="20px" ></a><br>
+        <figure><a href="https://www.uva.br/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/brunolaudelino/bruno.laudelino.github.io/blob/main/img/logo/uva.logo.png?raw=true" alt="uva" width="50px" height="50px" border="50px" ></a><br>
             <figcaption>UVA - Universidade Veiga de Almeida</figcaption></figure>
             <p>Sou um estudante universitário apaixonado por resolver problemas por meio da programação. Atualmente, estou cursando Sistemas de Informação na UVA - Universidade Veiga de Almeida e comcomitante fazendo cursos, projetos e Bootcamps na DIO - Digital Innovation One.<p>
-            <figure><a href="https://www.dio.me/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/brunolaudelino/bruno.laudelino.github.io/blob/main/img/logo/dio.logo.jpg?raw=true" alt="dio" width="50px" height="50px" border="20px" ></a><br>
+            <figure><a href="https://www.dio.me/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/brunolaudelino/bruno.laudelino.github.io/blob/main/img/logo/dio.logo.jpg?raw=true" alt="dio" width="50px" height="50px" border="50px" ></a><br>
             <figcaption>DIO - Digital Innovation One</figcaption></figure>
             <p> Minha paixão por codificação começou quando fui apresentado ao mundo da programação em C . Desde então, tenho me esforçado para aprender mais e expandir meu conhecimento em outras áreas.</p>
         </section>
@@ -28,12 +28,39 @@
                 <li><b>Busca por Estágio em Desenvolvimento:</b><p>Estou ativamente buscando oportunidades de estágio para expandir minha compreensão prática das tecnologias e conceitos que venho estudando. Acredito que um ambiente de trabalho real será uma plataforma valiosa para aprimorar minhas habilidades e aprender com profissionais experientes.</p></li>
                 <li><b>Aspirações de Cientista de Dados:</b><p>Olhando para o futuro, meu objetivo é me tornar um cientista de dados. Tenho fascínio pela análise de dados e pela extração de insights significativos para auxiliar em tomadas de decisões informadas. Pretendo continuar minha educação nesse campo emocionante.</p></li>
             </ul>
+            <h1>Objetivos</h1>
+            <ul>
+                <li>Continuar aprofundando meu conhecimento em C, C++ e C# para desenvolver aplicações mais complexas e eficientes</li>
+                <li>Explorar novas linguagens, como Python e JavaScript, para ampliar minha base de habilidades e entender suas aplicações.</li>
+                <li>Mergulhar mais fundo no desenvolvimento web, aprendendo frameworks como Django e FastAPI para Python, React e Angular para JavaScript e a famosa ASP.NET da Microsoft para criar projetos mais robustos e dinâmicos.</li>
+                <li>Contribuir para projetos de código aberto e compartilhar meus próprios projetos para receber feedback da comunidade e aprimorar minhas habilidades.</li>
+                <li>Me aprofundar em C# e explorar o ecossistema da Microsoft(Grande interesse no ecossistema tenconlógico) para estar preparado para desenvolver projetos para empresas no futuro.</li>
+                <li>Encontrar um estágio desafiador que me permita aplicar meus conhecimentos e aprender com profissionais experientes, expandindo minha perspectiva no campo da programação e do desenvolvimento de software.</li>
+            </ul>
         </section>
-        <aside>
+        <section>
+            <h1>O que Você Encontrará Neste Repositório</h1>
+            <ol>
+                <img src="https://github.com/brunolaudelino/bruno.laudelino.github.io/blob/main/img/logo/formacao.gif?raw=true" alt="logoformacao" width="50px" height="50px">
+                <li><a href="http://" target="_blank" rel="noopener noreferrer"><h3>Meu Portifólio Inicial</h3></a>
+                <p> Este diretório contém o código-fonte do meu primeiro portfólio, um site que hospedei nas GitHub Pages. O site apresenta informações sobre mim, meu percurso acadêmico e as tecnologias que estudei até o momento. Além disso, oferece uma maneira de entrar em contato comigo e explorar mais detalhes sobre minha jornada.</p>
+                </li>
+                <li><a href="http://" target="_blank" rel="noopener noreferrer"><h3>C/C++ Exercícios e Algoritmos:</h3></a>
+                <p>Esta seção abriga uma coleção de exercícios e algoritmos básicos de programação em linguagens C e C++. Esses exercícios são fundamentais para aprimorar minha lógica de programação e minha compreensão das estruturas de controle e de dados.</p>
+                </li>
+                <li><a href="http://" target="_blank" rel="noopener noreferrer"><h3>Python Inicio de Uma Jornada</h3></a>
+                <p>Aqui você encontrará projetos e exercícios iniciais em Python, onde estou explorando a sintaxe e a lógica de programação característica dessa linguagem. Esses projetos servem como um ponto de partida para minha jornada no mundo do desenvolvimento em Python.</p>
+                </li>
+                <li><a href="http://" target="_blank" rel="noopener noreferrer"><h3>Desenvolvimento Front-End (HTML e CSS):</h3></a>
+                <p>Neste Repositório, você encontrará o meu progresso no desenvolvimento front-end. Exploro minha proficiência em HTML e CSS por meio de pastas e arquivos que representam diferentes etapas de aprendizado e aprimoramento. Isso mostra como evoluí na criação de interfaces atraentes e funcionais.</p>
+                </li>
+            </ol>
+        </section>
+        <section>
             <h1>Como Contribuir:</h1>
             <p>Sinta-se à vontade para explorar meus projetos, clonar este repositório e propor melhorias por meio de pull requests. Estou sempre aberto a feedback construtivo e novas ideias para expandir meus conhecimentos.</p>
             <p>Obrigado por fazer parte desta jornada comigo. Vamos aprender e crescer juntos na emocionante área da programação! 🚀</p>
-        </aside>
+        </section>
     </main>
     <footer>
     </footer>
