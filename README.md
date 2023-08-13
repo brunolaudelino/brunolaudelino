@@ -32,6 +32,7 @@
                 <li>Contribuir para projetos de código aberto e compartilhar meus próprios projetos para receber feedback da comunidade e aprimorar minhas habilidades.</li>
                 <li>Me aprofundar em C# e explorar o ecossistema da Microsoft(Grande interesse no ecossistema tenconlógico) para estar preparado para desenvolver projetos para empresas no futuro.</li>
                 <li>Encontrar um estágio desafiador que me permita aplicar meus conhecimentos e aprender com profissionais experientes, expandindo minha perspectiva no campo da programação e do desenvolvimento de software.</li>
+                <li>À medida que minha proficiência em programação cresce, reconheço a importância de aprender inglês para ampliar um futuro promissor e alcancar novos clientes e colaboradores globalmente. Busco me tornar um profissional completo e competitivo em escala global.</li>
             </ul>
         </section>
         <section>
