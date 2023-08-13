@@ -15,20 +15,20 @@
             <p> Minha paixão por codificação começou quando fui apresentado ao mundo da programação em C . Desde então, tenho me esforçado para aprender mais e expandir meu conhecimento em outras áreas.</p>
         </section>
         <section>
-            <h1>Minhas Habilidades Atuais:</h1>
+            <h1>Minhas Habilidades Atuais</h1>
             <ul>
                 <li><b>Linguagens:</b></li><p>Possuo um bom entendimento da linguagem C, onde iniciei minha jornada. Além disso, também explorei um pouco do C++, permitindo-me entender os princípios da programação orientada a objetos.</p>
                 <li><b>Web Development:</b><p>Tenho um domínio sólido de HTML e CSS, o que me permite criar páginas web atraentes e funcionais. Aprendi a estruturar o conteúdo com HTML e a estilizar com CSS para criar interfaces agradáveis.</p></li>
                 <li><b>Ambiente Universitário:</b><p>Minha formação acadêmica tem me proporcionado uma base sólida em ciência da computação, matemática e resolução de problemas. Isso me ajuda a abordar os desafios de programação de maneira estruturada.</p></li>
-                <li><b>Fome de Conhecimento:</b><p>Acredito que o verdadeiro valor está no conhecimento e na capacidade de aplicá-lo para criar soluções significativas. Tenho uma paixão ardente por aprender e crescer como programador, priorizando o ganho de conhecimento sobre a recompensa financeira</p></li>
+                <li><b>Fome de Conhecimento:</b><p>Acredito que o verdadeiro valor está no conhecimento e na capacidade de aplicá-lo para criar soluções significativas. Tenho uma paixão ardente por aprender e crescer como programador, priorizando o ganho de conhecimento sobre a recompensa financeira./p></li>
                 <li><b>Busca por Estágio em Desenvolvimento:</b><p>Estou ativamente buscando oportunidades de estágio para expandir minha compreensão prática das tecnologias e conceitos que venho estudando. Acredito que um ambiente de trabalho real será uma plataforma valiosa para aprimorar minhas habilidades e aprender com profissionais experientes.</p></li>
                 <li><b>Aspirações de Cientista de Dados:</b><p>Olhando para o futuro, meu objetivo é me tornar um cientista de dados. Tenho fascínio pela análise de dados e pela extração de insights significativos para auxiliar em tomadas de decisões informadas. Pretendo continuar minha educação nesse campo emocionante.</p></li>
             </ul>
             <h1>Objetivos</h1>
             <ul>
-                <li>Continuar aprofundando meu conhecimento em C, C++ e C# para desenvolver aplicações mais complexas e eficientes</li>
+                <li>Continuar aprofundando meu conhecimento em C, C++ e C# para desenvolver aplicações mais complexas e eficientes.</li>
                 <li>Explorar novas linguagens, como Python e JavaScript, para ampliar minha base de habilidades e entender suas aplicações.</li>
-                <li>Mergulhar mais fundo no desenvolvimento web, aprendendo frameworks como Django e FastAPI para Python, React e Angular para JavaScript e a famosa ASP.NET da Microsoft para criar projetos mais robustos e dinâmicos.</li>
+                <li>Mergulhar fundo no desenvolvimento web, aprendendo frameworks como Django e FastAPI para <b>Python</b>, React e Angular para <b>JavaScript</b> e a famosa <b>ASP.NET</b> da Microsoft para criar projetos mais robustos e dinâmicos.</li>
                 <li>Contribuir para projetos de código aberto e compartilhar meus próprios projetos para receber feedback da comunidade e aprimorar minhas habilidades.</li>
                 <li>Me aprofundar em C# e explorar o ecossistema da Microsoft(Grande interesse no ecossistema tenconlógico) para estar preparado para desenvolver projetos para empresas no futuro.</li>
                 <li>Encontrar um estágio desafiador que me permita aplicar meus conhecimentos e aprender com profissionais experientes, expandindo minha perspectiva no campo da programação e do desenvolvimento de software.</li>
