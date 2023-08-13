@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tags HTML 5 - Estrutural</title>
+    <style>
+        nav ul{
+            display: flex;
+            list-style: none;
+            margin: 0;
+        }
+        nav ul li a{
+            padding: 10px 15px;
+            color: blue;
+            text-decoration: none;
+            border-radius: 15px 0;
+        }
+        nav ul li a:hover{
+            color: white;
+            background: blue;
+        }
+        blockquote{
+            background-color: lightgray;
+            padding: 15px;
+            margin-left: 0px;
+            border-left: red solid 5px;
+        }
+        article time{
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="">Item 1</a></li>
+                <li><a href="">Item 2</a></li>
+                <li><a href="tel:55159862001565">Item 3</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <article>
+            <h1>Descoberta de Vida em outro Planeta</h1>
+            <p>Artigo publicado em <time pubdate>05/08/2023</time> </p>
+            <p>Encontrado vida em marte segundo os astrounaltas da NASA</p>
+            <p><q>Foi encontrado em marte vida inteligente</q> segundo os dados da Nasa foi comprovado por meio de notas e artigos. </p>
+            <p>A fonte é <blockquote>https://wikipedia.com</blockquote>caso queira saber mais sobre essas informações</p>
+            <p>Segundo os alunos de DIO.me,<q cite="htpp://wwww.DIO.me.com">Este é o melhor curso de HTML que já fizeram !</q></p>
+        </article>
+        <figure>
+            <img src="imagens/spider.jpg" alt="Spider" width="250">
+            <figcaption>Homem Aranha (Spider Man)</figcaption>
+        </figure>
+        <picture>
+            <source srcset="imagens/spider1.jpg" media="(min-width: 600px)" alt="Spider1" >
+            <img src="imagens/spider.jpg" alt="Spider" width="800px">
+        </picture>
+    </main>
+    <footer></footer>
+</body>
+</html>

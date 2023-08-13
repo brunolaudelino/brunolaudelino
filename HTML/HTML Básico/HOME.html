@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        span{
+            color:red
+        }
+        .row {
+            margin: 5px;
+        }
+        label{
+            width: 100px;
+            text-align: right;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: inline-block;
+            padding-right: 5px;
+        }
+        fieldset{
+            border-radius: 10px;
+        }
+        button{
+            border-radius: 10px;
+            color: cornflowerblue;
+        }
+    </style>
+</head>
+<body>
+    <H1>Dio<span>.</span>me</H1>
+<div class="row">
+    <fieldset>
+        <legend>Dados Pessoais</legend>
+<label>Nome: </label><input placeholder="Digite o nome completo " type="text" /><br>
+<label>CPF: </label><input type="text" ><br>
+<label>Numero:</label><input type="number" style="width: 30px; width: 20;" />
+<label>E-mail:</label><input type="email" /><br>
+</div>
+</fieldset>
+<fieldset>
+    <legend>Cargos</legend>
+<div class="row">
+    <label>Profissão: </label><input name="Profissão" type="text">
+    <label>Empresa: </label><input type="text">
+</div>
+</fieldset>
+<fieldset>
+    <legend>Localidade</legend>
+<div class="row">
+    <label>Endereço:</label><input type="text">
+    <label>Número:</label><input style="width: 30px;" type="number" width="10"><br>
+    <label>Complemento:</label><input type="text">
+    <label>Bairro:</label><input type="text">
+    <label>CEP: </label><input type="number" width="10"><br>
+    <label>Cidade:</label><input type="text" name="Cidade">
+    <label>UF</label>
+    <select name="Estado">
+        <option value="AC">AC - Acre</option>
+        <option value="AL">AL - Alagoas</option>
+        <option value="AP">AP - Amapá</option>
+        <option value="AM">AM - Amazonas</option>
+        <option value="BA">BA - Bahia</option>
+        <option value="CE">CE - Ceará</option>
+        <option value="DF">DF - Distrito Federal</option>
+        <option value="ES">ES - Espírito Santo</option>
+        <option value="GO">GO - Goiás</option>
+        <option value="MA">MA - Maranhão</option>
+        <option value="MT">MT - Mato Grosso</option>
+        <option value="MS">MS - Mato Grosso do Sul</option>
+        <option value="MG">MG - Minas Gerais</option>
+        <option value="PA">PA - Pará</option>
+        <option value="PB">PB - Paraíba</option>
+        <option value="PR">PR - Paraná</option>
+        <option value="PE">PE - Pernambuco</option>
+        <option value="PI">PI - Piauí</option>
+        <option value="RJ">RJ - Rio de Janeiro</option>
+        <option value="RN">RN - Rio Grande do Norte</option>
+        <option value="RS">RS - Rio Grande do Sul</option>
+        <option value="RO">RO - Rondônia</option>
+        <option value="RR">RR - Roraima</option>
+        <option value="SC">SC - Santa Catarina</option>
+        <option value="SP">SP - São Paulo</option>
+        <option value="SE">SE - Sergipe</option>
+        <option value="TO">TO - Tocantins</option>
+      </select>
+    </fieldset>
+</div>
+<fieldset>
+    <legend>Contato:</legend>
+    <div>
+        <labe>Celular:<input type="tel"></labe>
+        <labe>Whatsapp:<input type="tel"></labe>
+    </div>
+</fieldset>
+<button type="submit"> Enviar Formulário </button><button type="reset"> Limpar </button>
+</body>
+</html>

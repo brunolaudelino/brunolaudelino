@@ -1,0 +1,77 @@
+@font-face {
+    font-family: "Borel";
+    src: url(Borel-Regular.ttf);
+}
+h1{
+    background: red;
+    color: white;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 20px;
+}
+h2{
+    color: white;
+    background: blue;
+    margin: 10px;
+    padding: 0;
+    border-radius: 20px;
+}
+li li{
+    color: darkmagenta;
+}
+#lista-01 li{
+    background-color: lightblue;
+}
+.fundo-verde li{
+    background: hotpink;
+}
+.fundo-verde li{
+    background: green;
+}
+.fundo-verde #sublista-01 {
+    color: darkorange;
+}
+.pzao{color: aqua;}
+[title]{
+    color: red;
+}
+[title=Prime]{
+    color: lightblue;
+}
+[title=Spotify]{
+    color: green;
+}
+[href^="htpps://"]{
+    background-color: blueviolet;
+}
+.texto {
+    color: rosybrown;
+}
+[id^="botao"]{
+    background-color: lightcoral;
+}
+.texto.teste{
+    background-color: sandybrown;
+}
+div.fundo-verde > p {
+    background-color: green;
+}
+div ~p {
+    background-color: brown;
+}
+div.fundo-azul + p{
+    color: goldenrod;
+}
+div {/*Estudo sobre box size e content-box valorpadrao e border-box valor da caixa total*/
+    width: 200px; /* A largura total do elemento será 200px + 10px de padding + 2px de border */
+    padding: 10px;
+    border: 2px solid black;
+  }
+  
+  /* Usando o modelo de caixa total (border-box) */
+  div {
+    box-sizing: border-box;
+    width: 200px; /* A largura total do elemento será exatamente 200px, incluindo padding e border */
+    padding: 10px;
+    border: 2px solid black;
+  }
