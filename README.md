@@ -37,16 +37,16 @@
         <section>
             <h1>O que Você Encontrará Neste Repositório</h1>
             <ul>
-                <li><a href="https://brunolaudelino.github.io/bruno.laudelino.github.io/" target="_blank"><h3>Meu Portifólio Inicial</h3></a>
+                <li><h3><a href="https://brunolaudelino.github.io/bruno.laudelino.github.io/">Meu Portifólio Inicial</a></h3>
                 <p> Este diretório contém o código-fonte do meu primeiro portfólio, um site que hospedei nas GitHub Pages. O site apresenta informações sobre mim, meu percurso acadêmico e as tecnologias que estudei até o momento. Além disso, oferece uma maneira de entrar em contato comigo e explorar mais detalhes sobre minha jornada.</p>
                 </li>
-                <li><a href="https://github.com/brunolaudelino/C" target="_blank"><h3>C/C++ Exercícios e Algoritmos:</h3></a>
+                <li><h3><a href="https://github.com/brunolaudelino/C">C/C++ Exercícios e Algoritmos</a></h3>
                 <p>Esta seção abriga uma coleção de exercícios e algoritmos básicos de programação em linguagens C e C++. Esses exercícios são fundamentais para aprimorar minha lógica de programação e minha compreensão das estruturas de controle e de dados.</p>
                 </li>
-                <li><a href="https://github.com/brunolaudelino/Python" target="_blank"><h3>Python Inicio de Uma Jornada</h3></a>
+                <li><h3><a href="https://github.com/brunolaudelino/Python">Python Inicio de Uma Jornada</a></h3>
                 <p>Aqui você encontrará projetos e exercícios iniciais em Python, onde estou explorando a sintaxe e a lógica de programação característica dessa linguagem. Esses projetos servem como um ponto de partida para minha jornada no mundo do desenvolvimento em Python.</p>
                 </li>
-                <li><a href="https://github.com/brunolaudelino/Front-End" target="_blank"><h3>Desenvolvimento Front-End (HTML e CSS):</h3></a>
+                <li><h3><a href="https://github.com/brunolaudelino/Front-End"></a>Desenvolvimento Front-End (HTML e CSS)</a></h3>
                 <p>Neste Repositório, você encontrará o meu progresso no desenvolvimento front-end. Exploro minha proficiência em HTML e CSS por meio de pastas e arquivos que representam diferentes etapas de aprendizado e aprimoramento. Isso mostra como evoluí na criação de interfaces atraentes e funcionais.</p>
                 </li>
             </ul>
