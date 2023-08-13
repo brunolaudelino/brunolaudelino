@@ -58,13 +58,12 @@
             <p>Quero compartilhar minha jornada com vocês por meio desses projetos e recursos.</p>
             <p>Obrigado por fazer parte desta jornada comigo. Vamos aprender e crescer juntos na emocionante área da programação! 🚀</p>
         </section>
+        <section>
+            <h4>CONTATO:</h4>
+            <a href="https://wa.me/5521964168393"><img src="https://github.com/brunolaudelino/bruno.laudelino.github.io/blob/main/img/icon/whatsapp.png?raw=true" alt="Whats" width="24px" height="24px"></a>
+            <a href="mailto:brunolaudelino@outlook.com"><img src="https://github.com/brunolaudelino/bruno.laudelino.github.io/blob/main/img/logo/e-mail.gif?raw=true" alt="email" width="24px" height="24px"></a>
+            <a href="http://"><img src="https://github.com/brunolaudelino/bruno.laudelino.github.io/blob/main/img/icon/linkedin.png?raw=true" alt="linkedin" width="24px" height="24px"></a>
+        </section>
     </main>
-    <footer>
-        <h4>CONTATO:</h4>
-        <p><a href="https://wa.me/5521964168393"><img src="https://github.com/brunolaudelino/bruno.laudelino.github.io/blob/main/img/icon/whatsapp.png?raw=true" alt="Whats" width="24px" height="24px"></a></p>
-        <p><a href="mailto:brunolaudelino@outlook.com"><img src="https://github.com/brunolaudelino/bruno.laudelino.github.io/blob/main/img/logo/e-mail.gif?raw=true" alt="email" width="24px" height="24px"></a></p>
-        <p><a href="http://"><img src="https://github.com/brunolaudelino/bruno.laudelino.github.io/blob/main/img/icon/linkedin.png?raw=true" alt="linkedin" width="24px" height="24px"></a></p>
-
-    </footer>
     </body>
     </html>
