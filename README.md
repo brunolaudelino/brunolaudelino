@@ -26,11 +26,11 @@
             </ul>
             <h1>Objetivos</h1>
             <ul>
-                <li>Continuar aprofundando meu conhecimento em C, C++ e C# para desenvolver aplicações mais complexas e eficientes.</li>
+                <li>Continuar aprofundando meu conhecimento em C e C++ para desenvolver aplicações mais complexas e eficientes.</li>
                 <li>Explorar novas linguagens, como Python e JavaScript, para ampliar minha base de habilidades e entender suas aplicações.</li>
                 <li>Mergulhar fundo no desenvolvimento web, aprendendo frameworks como Django e FastAPI para <b>Python</b>, React e Angular para <b>JavaScript</b> e a famosa <b>ASP.NET</b> da Microsoft para criar projetos mais robustos e dinâmicos.</li>
                 <li>Contribuir para projetos de código aberto e compartilhar meus próprios projetos para receber feedback da comunidade e aprimorar minhas habilidades.</li>
-                <li>Me aprofundar em C# e explorar o ecossistema da Microsoft(Grande interesse no ecossistema tenconlógico) para estar preparado para desenvolver projetos para empresas no futuro.</li>
+                <li>Me aprofundar em C# e explorar o ecossistema da Microsoft(grande interesse no ecossistema tecnológico) para estar preparado para desenvolver projetos para empresas no futuro.</li>
                 <li>Encontrar um estágio desafiador que me permita aplicar meus conhecimentos e aprender com profissionais experientes, expandindo minha perspectiva no campo da programação e do desenvolvimento de software.</li>
                 <li>À medida que minha proficiência em programação cresce, reconheço a importância de aprender inglês para ampliar um futuro promissor e alcancar novos clientes e colaboradores globalmente. Busco me tornar um profissional completo e competitivo em escala global.</li>
             </ul>
