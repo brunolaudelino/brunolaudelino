@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Minha Jornada como Iniciante na Programação
 #### 🚀Explorando o mundo da programação! Apaixonado por C/C++, C#, Python e desenvolvimento web. Buscando conhecimento, buscando um estágio e almejando um futuro.
 
@@ -134,10 +133,6 @@
             <a href="https://www.linkedin.com/in/brunolaudelino/"><img src="https://github.com/brunolaudelino/bruno.laudelino.github.io/blob/main/img/icon/linkedin.png?raw=true" alt="linkedin" width="24px" height="24px"></a>
             <a href="https://brunolaudelino.github.io/bruno.laudelino.github.io/"><img src="https://github.com/brunolaudelino/bruno.laudelino.github.io/blob/main/img/icon/github.png?raw=true" alt="git" width="24px" height="24px"></a>
         </section>
-<<<<<<< HEAD
-
-=======
     </main>
     </body>
     </html>
->>>>>>> f03a3e02b6bb048e646857a5fac01f1a7aac6b29
