@@ -81,7 +81,6 @@
   <tfoot>
   </tfoot>
 </table>
-    <h1>Objetivos</h1>
         <section>
             <h1>Minhas Habilidades Atuais</h1>
             <ul>
@@ -93,7 +92,6 @@
                 <li><b>Aspirações de Cientista de Dados:</b><p>Olhando para o futuro, meu objetivo é me tornar um cientista de dados. Tenho fascínio pela análise de dados e pela extração de insights significativos para auxiliar em tomadas de decisões informadas. Pretendo continuar minha educação nesse campo emocionante.</p></li>
             </ul>
             <h1>Objetivos</h1>
->>>>>>> f03a3e02b6bb048e646857a5fac01f1a7aac6b29
             <ul>
                 <li>Continuar aprofundando meu conhecimento em C e C++ para desenvolver aplicações mais complexas e eficientes.</li>
                 <li>Explorar novas linguagens, como Python e JavaScript, para ampliar minha base de habilidades e entender suas aplicações.</li>
