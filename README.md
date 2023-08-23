@@ -109,7 +109,7 @@
                 <li><b>Busca por Estágio em Desenvolvimento:</b><p>Estou ativamente buscando oportunidades de estágio para expandir minha compreensão prática das tecnologias e conceitos que venho estudando. Acredito que um ambiente de trabalho real será uma plataforma valiosa para aprimorar minhas habilidades e aprender com profissionais experientes.</p></li>
                 <li><b>Aspirações de Cientista de Dados:</b><p>Olhando para o futuro, meu objetivo é me tornar um cientista de dados. Tenho fascínio pela análise de dados e pela extração de insights significativos para auxiliar em tomadas de decisões informadas. Pretendo continuar minha educação nesse campo emocionante.</p></li>
             </ul>
-            <h1>Objetivos & Aspirações</h1>
+            <h1>Objetivos</h1>
 >>>>>>> f03a3e02b6bb048e646857a5fac01f1a7aac6b29
             <ul>
                 <li>Continuar aprofundando meu conhecimento em C e C++ para desenvolver aplicações mais complexas e eficientes.</li>
