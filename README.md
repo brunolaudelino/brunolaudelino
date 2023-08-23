@@ -81,24 +81,7 @@
   <tfoot>
   </tfoot>
 </table>
-    <h1>Objetivos & Aspirações</h1>
-=======
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <header>
-        <h1>Minha Jornada como Iniciante na Programação</h1>
-        <p><i>Bem-vindo ao meu repositório! Aqui vou compartilhar minha emocionante jornada como iniciante na área de programação, onde tenho explorado diferentes linguagens e tecnologias para construir soluções incríveis. Apesar de ainda estar no começo, estou animado para compartilhar meus aprendizados e desafios enfrentados até agora.</i></p>
-    </header>
-    <body>
-    <main>
-        <section>
-        <h1>Sobre Mim ...</h1>
-            <p>Sou um estudante universitário apaixonado por resolver problemas por meio da programação. Atualmente, estou cursando Sistemas de Informação na UVA - Universidade Veiga de Almeida e comcomitantemente realizando cursos, projetos e Bootcamps na DIO - Digital Innovation One.<p>
-            <p> Minha paixão por codificação começou quando fui apresentado ao mundo da programação em C . Desde então, tenho me esforçado para aprender mais e expandir meu conhecimento em outras áreas.</p>
-        </section>
+    <h1>Objetivos</h1>
         <section>
             <h1>Minhas Habilidades Atuais</h1>
             <ul>
