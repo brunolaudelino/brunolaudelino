@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/brunolaudelino/)
 
 ## Sobre Mim 
-#### Sou um estudante universitário apaixonado por resolver problemas por meio da programação. Atualmente, estou cursando Sistemas de Informação na UVA - Universidade Veiga de Almeida e comcomitantemente realizando cursos, projetos e Bootcamps na DIO - Digital Innovation One.
+#### Sou um estudante universitário apaixonado por resolver problemas por meio da programação. Atualmente, estou cursando Sistemas de Informação na UVA - Universidade Veiga de Almeida e concomitantemente realizando cursos, projetos e Bootcamps na DIO - Digital Innovation One.
 
 ## Habilidades. 
 #### Minha paixão por codificação começou quando fui apresentado ao mundo da programação em C . Desde então, tenho me esforçado para aprender mais e expandir meu conhecimento em outras áreas.
