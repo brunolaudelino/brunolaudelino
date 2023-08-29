@@ -72,7 +72,7 @@
       <h4>Julho 2023</h4></td>
       <td>Neste Repositório, você encontrará o meu progresso no desenvolvimento front-end. Exploro minha proficiência em HTML e CSS por meio de pastas e arquivos que representam diferentes etapas de aprendizado e aprimoramento. Isso mostra como evoluí na criação de interfaces atraentes e funcionais.</td>
       <td align="center">
-        <a href="https://web.dio.me/articles/5-dicas-para-melhorar-o-readme-do-seu-perfil-no-github">
+        <a href="https://github.com/brunolaudelino/Front-End">
            <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Front%20END-E94D5F?style=for-the-badge">
         </a>
       </td>    
