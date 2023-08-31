@@ -59,7 +59,7 @@
       <td><h2>Python</h2>
       <h3>Inicio de uma Jornada</h3>
       <h4>Julho 2023</h4></td>
-      <td>Aqui você encontrará projetos e exercícios iniciais em Python, onde estou explorando a sintaxe e a lógica de programação característica dessa linguagem. Esses projetos servem como um ponto de partida para minha jornada no mundo do desenvolvimento em Python./td>
+      <td>Aqui você encontrará projetos e exercícios iniciais em Python, onde estou explorando a sintaxe e a lógica de programação característica dessa linguagem. Esses projetos servem como um ponto de partida para minha jornada no mundo do desenvolvimento em Python.</td>
       <td align="center">
         <a href="https://github.com/brunolaudelino/Python">
            <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/%20Python-30A3DC?style=for-the-badge">
