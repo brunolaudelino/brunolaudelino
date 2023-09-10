@@ -1,5 +1,5 @@
 # Minha Jornada como Iniciante na Programação
-#### 🚀Explorando o mundo da programação! Apaixonado por C/C++, C#, Python e desenvolvimento web. Buscando conhecimento, buscando um estágio e almejando um futuro.
+#### 🚀Explorando o mundo da programação! Apaixonado por C/C++, C#, Python e desenvolvimento web. Buscando conhecimento e almejando um futuro.
 
 #### Bem-vindo ao meu repositório! Aqui vou compartilhar minha emocionante jornada como iniciante na área de programação, onde tenho explorado diferentes linguagens e tecnologias para construir soluções incríveis. Apesar de ainda estar no começo, estou animado para compartilhar meus aprendizados e desafios enfrentados até agora.
 
