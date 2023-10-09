@@ -102,6 +102,7 @@
                 <li>À medida que minha proficiência em programação cresce, reconheço a importância de aprender inglês para ampliar um futuro promissor e alcancar novos clientes e colaboradores globalmente. Busco me tornar um profissional completo e competitivo em escala global.</li>
             </ul>
         </section>
+        <section>
         <h1>Como Contribuir:</h1>
             <p>Sinta-se à vontade para explorar meus projetos, clonar este repositório e propor melhorias por meio de pull requests. Estou sempre aberto a feedback construtivo e novas ideias para expandir meus conhecimentos.</p>
             <p>Quero compartilhar minha jornada com vocês por meio desses projetos e recursos.</p>
