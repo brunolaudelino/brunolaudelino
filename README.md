@@ -14,11 +14,21 @@
 
 ## Habilidades. 
 #### Minha paixão por codificação começou quando fui apresentado ao mundo da programação em C . Desde então, tenho me esforçado para aprender mais e expandir meu conhecimento em outras áreas.
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## Bibliotecas e Frameworks. 
+#### Frameworks que pretendo estudar durante esse processo.
+
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 
 ## Git Hub Status
 
@@ -37,7 +47,7 @@
   <tbody align="left">
     <tr>
        <td><h2>Meu Portifólio Inicial</h2>
-      <h4>Julho 2023</h4></td>
+      <h4>Abril 2023</h4></td>
       <td>Este diretório contém o código-fonte do meu primeiro portfólio, um site que hospedei nas GitHub Pages. O site apresenta informações sobre mim, meu percurso acadêmico e as tecnologias que estudei até o momento. Além disso, oferece uma maneira de entrar em contato comigo e explorar mais detalhes sobre minha jornada.</td>
       <td align="center">
       <a href="https://brunolaudelino.github.io/bruno.laudelino.github.io/">
@@ -58,7 +68,7 @@
     <tr>
       <td><h2>Python</h2>
       <h3>Inicio de uma Jornada</h3>
-      <h4>Julho 2023</h4></td>
+      <h4>Setembro 2023</h4></td>
       <td>Aqui você encontrará projetos e exercícios iniciais em Python, onde estou explorando a sintaxe e a lógica de programação característica dessa linguagem. Esses projetos servem como um ponto de partida para minha jornada no mundo do desenvolvimento em Python.</td>
       <td align="center">
         <a href="https://github.com/brunolaudelino/Python">
@@ -69,11 +79,23 @@
     <tr>
       <td><h2>Desenvolvimento Front-End</h2>
       <h3>(HTML & CSS)</h3>
-      <h4>Julho 2023</h4></td>
+      <h4>Novembro 2023</h4></td>
       <td>Neste Repositório, você encontrará o meu progresso no desenvolvimento front-end. Exploro minha proficiência em HTML e CSS por meio de pastas e arquivos que representam diferentes etapas de aprendizado e aprimoramento. Isso mostra como evoluí na criação de interfaces atraentes e funcionais.</td>
       <td align="center">
         <a href="https://github.com/brunolaudelino/Front-End">
            <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Front%20END-E94D5F?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td><h2>JAVA</h2>
+      <h3>Linguagem Back-End</h3>
+      <h4>Fevereiro 2024</h4></td>
+      <td>Aqui você encontrará uma coleção de projetos e exercícios iniciais que estou desenvolvendo para aprofundar meu conhecimento na linguagem Java. Aaprimorando minha lógica de programação, cada projeto e exercício aqui serve como um passo importante na minha jornada de aprendizado, proporcionando uma base sólida para futuras aplicações mais complexas.
+      </td>
+      <td align="center">
+        <a href="https://github.com/brunolaudelino/JAVA">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/%20JAVA-30A3DC?style=for-the-badge">
         </a>
       </td>    
     </tr>
